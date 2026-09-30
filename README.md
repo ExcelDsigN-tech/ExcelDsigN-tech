@@ -12,10 +12,6 @@ ExcelDsigN-tech is a blockchain developer building on the Stellar network, with 
 ![](https://streak-stats.demolab.com/?user=ExcelDsigN-tech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ExcelDsigN-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ExcelDsigN-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ExcelDsigN-tech)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🏅 Badges 
 <div><a href="https://cloud.layer5.io/user/09695795-cf54-4783-8bf5-30563ff84b55?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
